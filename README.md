@@ -47,7 +47,7 @@
 	5. Use resource addressing and resource parameters to connect resources together
 	6. Use HCL and Terraform functions to write configuration
 	7. Describe built-in dependency management (order of execution based)
-9. [Understand Terraform Cloud capabilities](/9.%20Understand%20Terraform%20Cloud%20capabilities)
+9. [Understand Terraform Cloud capabilities](/9.%20Understand%20Terraform%20Cloud%20capabilities.md)
 	1. Explain how Terraform Cloud helps to manage infrastructure
 	2. Describe how Terraform Cloud enables collaboration and governance
 
